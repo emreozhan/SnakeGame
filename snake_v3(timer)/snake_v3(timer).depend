@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1422056831 source:c:\users\emreozhan\desktop\programlarým\snake_v3(timer)\main.c
+	<stdio.h>
+	<time.h>
+	<stdlib.h>
+	<conio.h>
+
